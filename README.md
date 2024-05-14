@@ -21,11 +21,7 @@ O repositório é uma conjunto dos desafios desenvolvidos na trilha de ReactJS d
 Aqui está a lista dos desafios que resolvi durante a trilha de React JS do Ignite 2021:
 
 - **Desafio 01: Conceitos do React em um TODO**: [README do projeto](./01-desafio-todo/README.md)
-![Desafio 01](./01-desafio-todo/.github/preview.png)
-
 - **Desafio 02: Componentização em um sistema de Filmes**: [README do projeto](./02-desafio-filmes-componentes/README.md)
-![Desafio 02](./02-desafio-filmes-componentes/.github/preview.png)
-
 
 ---
 
