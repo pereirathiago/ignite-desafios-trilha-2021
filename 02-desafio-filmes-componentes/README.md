@@ -35,22 +35,25 @@ O objetivo é reorganizar o código da aplicação utilizando componentesPI.
 # :computer: Como Executar o projeto
 
 ```bash
-    # Clonar o repositório
-    git clone https://github.com/pereirathiago/ignite-desafio-filmes-componentes.git
+        # Clonar o repositório
+    git clone https://github.com/pereirathiago/ignite-react-desafios-trilha-2021.git
 
     # Entrar no projeto
-    cd ignite-desafio-filmes-componentes
+    cd ignite-react-desafios-trilha-2021
+
+    # Entrar na pasta desse desafio
+    cd 02-desafio-filmes-componentes
 
     # Baixar as dependências
     yarn install
 
-    # Executar a aplicação
-    yarn dev
-
-    # Em outro terminal executar o server
+    # Executar o server
     yarn server
+
+    # Em outro terminal executar a aplicação
+    yarn start
 ```
-Depois disso abra seu navegador favorito e entre na URL "http://localhost:8080"
+Depois disso abra seu navegador favorito e entre na URL "http://localhost:3000"
 
 ---
 

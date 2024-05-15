@@ -36,16 +36,19 @@ O objetivo é uma pequena aplicação de atividades a fazer, para treinar um pou
 
 ```bash
     # Clonar o repositório
-    git clone https://github.com/pereirathiago/ignite-desafio01-todo.git
+    git clone https://github.com/pereirathiago/ignite-react-desafios-trilha-2021.git
 
     # Entrar no projeto
-    cd ignite-desafio01-todo
+    cd ignite-react-desafios-trilha-2021
+
+    # Entrar na pasta desse desafio
+    cd 01-desafio-todo
 
     # Baixar as dependências
     yarn install
 
     # Executar o server
-    yarn dev
+    yarn start
 ```
 Depois disso abra seu navegador favorito e entre na URL "http://localhost:8080"
 
