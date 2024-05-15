@@ -11,10 +11,14 @@
 
 # :scroll: Sobre
 
- Esse desafio é uma aplicação Web para criar um hook de carrinho de compras da trilha de 2021 do Ignite da Rocktseat, utilizando FakeAPI e Toastify.
-<div align="center">
-    <img alt="Preview" src=".github/preview.mp4">
-</div>
+Esse desafio é uma aplicação Web para criar um hook de carrinho de compras da trilha de 2021 do Ignite da Rocktseat, utilizando FakeAPI e Toastify.
+
+
+
+https://github.com/pereirathiago/ignite-react-desafios-trilha-2021/assets/63749154/44dffb00-630f-4b7c-8881-bc9ced5c4c22
+
+
+
 
  ---
 
