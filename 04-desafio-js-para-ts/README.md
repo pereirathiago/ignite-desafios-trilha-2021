@@ -13,6 +13,10 @@
 
 Esse desafio é uma aplicação Web para refatorar o código que está em JS para TS da trilha de 2021 do Ignite da Rocktseat, utilizando FakeAPI.
 
+
+https://github.com/pereirathiago/ignite-react-desafios-trilha-2021/assets/63749154/949a64e5-0414-4caa-9944-ddd53187ee1c
+
+
  ---
 
  <a id="desafio"></a>
