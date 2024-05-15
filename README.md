@@ -23,6 +23,7 @@ Aqui está a lista dos desafios que resolvi durante a trilha de React JS do Igni
 - **Desafio 01: Conceitos do React em um TODO**: [README do projeto](./01-desafio-todo/README.md)
 - **Desafio 02: Componentização em um sistema de Filmes**: [README do projeto](./02-desafio-filmes-componentes/README.md)
 - **Desafio 03: Hook Carrinho de compras**: [README do projeto](./03-desafio-carrinho-compras/README.md)
+- **Desafio 04: JS para TS**: [README do projeto](./04-desafio-js-para-ts/README.md)
 
 ---
 
