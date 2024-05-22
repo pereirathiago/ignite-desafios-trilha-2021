@@ -4,6 +4,10 @@ import { getPrismicClient } from '../services/prismic';
 
 import commonStyles from '../styles/common.module.scss';
 import styles from './home.module.scss';
+import Head from 'next/head';
+import Link from 'next/link';
+
+import { FiCalendar, FiUser } from "react-icons/fi";
 
 interface Post {
   uid?: string;
@@ -26,9 +30,28 @@ interface HomeProps {
 
 export default function Home() {
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <>
+      <Head>
+        <title>Home | spacetraveling</title>
+      </Head>
+
+      <main className={commonStyles.container}>
+        <div className={styles.posts}>
+          <Link href="/posts/">
+            <strong>Como utilizar Hooks</strong>
+            <p>Pensando em sincronização em vez de ciclos de vida</p>
+            <time>
+              <FiCalendar />
+              15 mar 2021
+            </time>
+            <span>
+              <FiUser />
+              Joseh Oliveira
+            </span>
+          </Link>
+        </div>
+      </main>
+    </>
   )
 }
 

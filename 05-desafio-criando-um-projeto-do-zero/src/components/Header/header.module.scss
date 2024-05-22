@@ -1,1 +1,21 @@
-// TODO
+.headerContainer {
+  height: 5rem;
+  padding: 0 2rem;
+}
+
+.headerContent {
+  max-width: 1120px;
+  height: 5rem;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+
+  a {
+    transition: opacity 0.2s;
+  }
+
+  a:hover {
+    opacity: 0.8;
+  }
+}
